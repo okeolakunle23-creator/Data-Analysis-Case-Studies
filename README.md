@@ -67,3 +67,12 @@
 ### 📈 Marketing & Strategy
 **Marketing Analysis Dashboard**
 > ![Marketing](MARKETING%20ANALYSIS%20DASHBOARD.png)
+
+## 🛠️ Data Visualization & Engineering Challenges
+*Creating a global portfolio involves more than just design. Here is how I ensured these 15+ dashboards provide real business value:*
+
+* **Data Cleaning & Normalization:** Many datasets (like the Airplane Crashes and Mental Health studies) spanned decades. I standardized date formats and naming conventions across 30+ years of records to ensure trend lines were accurate.
+* **UI/UX for Decision Makers:** In complex dashboards like the "Bank Churn Analysis," I implemented a "Dark Mode" aesthetic and high-contrast visuals to reduce cognitive load, allowing executives to identify at-risk customer segments in under 5 seconds.
+* **Complex Aggregations:** For the "Amazon Sales" and "TATA Retail" projects, I handled large-scale transactional data, creating custom calculated fields to compare Average Ratings against Sales Volume without slowing down dashboard performance.
+* **Accessibility:** Chose color-blind friendly palettes (specifically in the Healthcare and Air Traffic models) to ensure data insights remain accessible to all stakeholders.
+ 
